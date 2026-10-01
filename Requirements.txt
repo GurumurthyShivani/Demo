@@ -1,0 +1,12 @@
+Requirements
+------------
+
+Project Name - FoodXpress
+
+TechStack:
+Backend - Java, Springboot
+Frontend - Reactjs, html, JavaScript, CSS/Tailwindcss
+DataBase - MySQL
+
+
+

@@ -1,0 +1,56 @@
+
+
+
+Company	Designation	Links	Referral name	Status
+
+Tech Mahindra	Java developer	-	Prashanth Gupta	
+Wipro	java developer	-	Lakshmi Krishnamoorthy(live connection consultancy)	
+Wipro	Graduate engineer trainee	https://careers.wipro.com/job/Noida-Graduate-Engineer-Trainee-IND-201308/190711-en_US/?utm_campaign=rcmemployeereferral&utm_source=rcmemployeereferral	Kulluyamma	applied
+Genpact	Software development engineer	https://genpact.wd108.myworkdayjobs.com/External_Careers/job/1401-G-India-1st-floor-Nyati-tech-park-Pune/Software-Development-Engineer---Software-Development-Engineering-N-4A_JR10016678?shared_id=ZjdjYzQxZDAtMDA1MC00NGU4LTk5MWItYmM2OTVmNDI2Nzcy	yogeshwar	applied
+ITC Infotech	Java developer		sarath	applied
+Mphasis	Java developer		Anupama HR	(forwarded resume)
+symphony AI	Associate software engineer - java		Gowtham	applied
+Deloitte	Full stack developer nextjs managed service engineer ||
+
+
+managed services engineer || Gen AI	https://usijobs.deloitte.com/en_US/DataCompletionRequest?uid=hnrGEP38W3sC0WXk&jobId=353062
+
+
+https://usijobs.deloitte.com/en_US/DataCompletionRequest?uid=OIxPWTK-H-1ov0WC&jobId=352750	Nagesh	Rejected
+
+
+
+
+
+applied
+Capgemini	
+java fsd with react or nodejs
+
+
+
+
+
+
+
+Java backend developer	https://careers.capgemini.com/job/Bangalore-Java-FSD-with-React-or-Node-JS/1415574133/?from=email&refid=32826403301&utm_source=J2WEmail&source=2&eid=219901-202610230510-36109908101&locale=en_GB
+
+
+
+https://careers.capgemini.com/job/Bangalore-Java-Backend-Developer/1417031733/?from=email&refid=32826403301&utm_source=J2WEmail&source=2&eid=219901-202610230510-36109908101&locale=en_GB	Mounika thouda	applied
+
+
+
+
+
+
+
+
+
+applied
+Qualcomm	Associate Engineer- Graphics
+	https://careers.qualcomm.com/careers/job/446718658490?domain=qualcomm.com&hl=en	Dinesh	
+Clinisys	Associate software engineer			
+cisco	software engineer	https://careers.cisco.com/global/en/job/2010173/Software-Engineer	Garv raj	
+Honeywell	software engineer -1	https://careers.honeywell.com/en/sites/Honeywell/job/153510/?utm_medium=career+site&utm_source=job+alert	kiran kumar dasari	
+Winspir technologies	java developer junior	https://bandyl.com/api/iframe/job?who=ibmNWgMSUKSVte6zlMFbBg%3D%3D&jobid=WJ0009	me	applied
+				

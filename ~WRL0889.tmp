@@ -1,0 +1,107 @@
+Oracle Course 
+DBMS
+ORACLE21c
+SQL - Basic SQL - INTRODUCTION TO SQL
+                  SUB LANGUAGES OF SQL
+                     -DDL COMMANDS
+                     -DML COMMANDS
+                     -DQL/DRL COMMANDS
+                     -TCL COMMANDS
+                     -DCL COMMANDS
+                - DATA TYPES IN ORACLE
+                - OPERATERS
+                - FUNCTIONS
+                - CLAUSES
+      -ADVANCED SQL
+            - JOINS
+            - INTEGRITY RULES(i.e CONSTRAINTS)
+            - SUBQUERY
+            - DATABASE SECURITY
+            - SYNONYMS
+            - VIEWS
+            - MATERIALIZED VIEWS
+            - SEQUENCE
+            - PARTITION TABLE
+            -LOCKS
+            -INDEXES
+            -CLUSTERS
+            -NORMALIZATION
+                  >1NF
+                  >2NF
+                  >3NF
+                  >BCNF
+                  >4NF
+                  >5NF
+
+PL/SQL:
+        INTRODUCTION TO PL/SQL
+        DIFFERENCE BETWEEN SQL AND PL/SQL
+        CONDITIONAL AND LOOPING STATEMENTS
+        BASIC PL/SQL PROGRAMS
+        CURSOR
+        STORED PROCEDURES
+        STORED FUNCTIONS
+        PACKAGES
+        TRIGGERS
+        COLLECTIONS
+        UTL FILE PACKAGES
+
+TOPIC -5 :DYNAMIC SQL
+
+
+ORACLE COURSE DURATION:
+          COURSE NAME - ORACLE21c
+          TIME        - 9:15/20AM - 10:45AM(CLASS SESSION) + 10-15 MIN(DOUBTS SESSION)
+          Duration - 50-60 sessions
+
+Day - 1
+
+
+sql is a language 
+oracle , my sql ,  sql server - relational database(80% of the concepts in 3 of them are same)
+
+TOPIC – 1: DBMS (Data base management system)
+
+What is Data?
+It is a raw fact (i.e. character, numbers, special character, and symbols)
+Data will never give meaningful statements
+Ex. 1001 is a data     SMITH is a data    1st- jan-2025 is a data
+    1002 is a data     SHIVANI is a data 2nd- jan-2025 is a data
+    1003 is a data     Cherry is a data 3rd- jan-2025 is a data
+
+What is Information?
+- Processing data is called as “information”
+- Information is always providing meaningful statement 
+     Employee_ID        Employee_Name      Hiredate 
+ Ex.      1001 is a data     SMITH is a data     1st- jan-2025 is a data
+    1002 is a data     SHIVANI is a data   2nd- jan-2025 is a data
+          1003 is a data     Cherry is a data    3rd- jan-2025 is a data
+
+What is Database?
+It is a collection of information which belongs to one business organization.
+It is a memory which is used to store collection of inter related data/information of an organization.
+Ex: Bank_Database, University_Database, Healthcare_Database.
+
+Ex:
+Bank_Database
+ 
+- Tbl_Bank
+          -bcode , bankname , bloc
+- Tbl_Dept
+          - dept name, deptbranch, deptloc
+- Tbl_Employee
+          - empname, empid, empbranch, empdept, empsalary
+- Tbl_Customer
+          - A/c num, Cname, Mbno, Address
+- Tbl_Accounts
+          - A/c num, A/c type, balance
+-Tbl_Transactions
+          -A/c num, tran type, tran date, tran time, amount
+
+
+
+TYPES OF DATABASES:
+There are 2 types of databases.
+1. OLTP (Online transaction processing)
+2. OLAP (Online analytical processing)
+

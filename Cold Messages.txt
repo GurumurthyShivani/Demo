@@ -1,0 +1,52 @@
+🔹 1. General Cold Message (No Job Posted)
+Hi [Recruiter Name],
+
+I hope you're doing well. I came across your profile and wanted to connect regarding potential opportunities. I’m a Java Full Stack Developer with skills in Spring Boot, React, and SQL, and I’m actively looking for entry-level roles.
+
+I would really appreciate it if you could consider my profile for any relevant openings. Happy to share my resume.
+
+Thank you for your time!
+
+==================================================================================================================
+
+
+🔹 2. Cold Message for a Specific Job Posting
+Hi [Recruiter Name],
+
+I recently came across the [Job Title] opening at [Company Name] and found it very relevant to my background. I have experience in Java, Spring Boot, and front-end technologies, and I’m very interested in this opportunity.
+
+I’ve already applied and wanted to reach out personally to express my interest. Please let me know if I can share any additional details.
+
+Thank you!
+
+==================================================================================================================
+
+🔹 3. Referral Request Message
+Hi [Name],
+
+I hope you’re doing well. I noticed that you’re working at [Company Name], and I’m very interested in opportunities there.
+
+I’m a Java Full Stack Developer with training in Spring Boot, React, and MySQL. I would be grateful if you could refer me for any suitable roles or guide me on the hiring process.
+
+Thank you in advance for your support!
+
+==================================================================================================================
+
+🔹 4. Short & Direct Version (Best for Busy Recruiters)
+Hi [Name],
+
+I’m a Java Full Stack Developer actively seeking opportunities. I’d appreciate it if you could consider my profile for any relevant openings.
+
+Can I share my resume with you?
+Thank you!
+
+==================================================================================================================
+
+🔹 5. Follow-Up Message (Very Important 🚀)
+Hi [Name],
+
+Just following up on my previous message regarding opportunities for a Java Full Stack Developer role.
+
+I’d really appreciate any updates or guidance. Looking forward to your response.
+
+Thank you!
